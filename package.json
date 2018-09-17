@@ -1,5 +1,9 @@
 {
   "private": true,
+  "dependencies": {
+    "@demo/app": "file:packages/app",
+    "@demo/lib": "file:packages/lib"
+  },
   "devDependencies": {
     "lerna": "^3.4.0"
   }
