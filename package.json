@@ -1,6 +1,4 @@
 {
-  "name": "@demo/lerna-playground",
-  "version": "1.0.0",
   "private": true,
   "devDependencies": {
     "lerna": "^3.4.0"
